@@ -1,0 +1,47 @@
+h1 {
+  text-align: center;
+}
+a:hover {
+  color: #0CB78A;
+}
+body {
+  background-color: #E3E5EA;
+}
+
+
+.main_container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.container3{
+    display: flex;
+    justify-content: center;
+    margin-left: 200px;
+    margin-right: 400px;
+}
+.photo{
+    margin-left: 20px;
+    margin-right: 40px;
+    height: 400px;
+}
+.named_list{
+    width: 600px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+.text{
+    margin-left: 40px;
+    margin-right: 40px;
+    font-size: 50px;
+    color: #383E48;
+    font-family: 'Inter', sans-serif;
+}
+.border{
+    border: 5px solid #0CB78A;
+}
+.qr{
+    height: 200px;
+    text-align: center;
+}
